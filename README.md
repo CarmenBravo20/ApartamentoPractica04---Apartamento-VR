@@ -129,7 +129,7 @@ Material
 
 13.	Desplegar la aplicación para dispositivos android. 
 
-![31](https://user-images.githubusercontent.com/49033767/125205918-17d19300-e24a-11eb-84f2-07f6571a4167.png)
+![Juego](https://user-images.githubusercontent.com/49033767/125208386-a13b9200-e257-11eb-94a1-68fda7a81f01.jpg)
  
 14.	Generar el informe de práctica en el formato correspondiente. 
  
@@ -161,7 +161,10 @@ b.	Agregar el archivo apk comprimido en .zip
  
  
 3. Luego, se debe crear el archivo README del repositorio de GitHub. 
-4. Generar informe de los resultados en el formato de prácticas. Debe incluir: 
+
+![r](https://user-images.githubusercontent.com/49033767/125208412-c03a2400-e257-11eb-8c7d-68b6bbcfc0f3.png)
+
+5. Generar informe de los resultados en el formato de prácticas. Debe incluir: 
 a.	El desarrollo de cada uno de los requerimientos antes descritos.  
 b.	La evidencia del correcto diseño de la escena 
 c.	La evidencia del correcto funcionamiento de la aplicación 
