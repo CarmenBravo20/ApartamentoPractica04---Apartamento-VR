@@ -167,6 +167,11 @@ b.	La evidencia del correcto diseño de la escena
 c.	La evidencia del correcto funcionamiento de la aplicación 
 d.	El informe debe incluir conclusiones apropiadas.  
 e.	En el informe se debe incluir la información de GitHub (usuario y URL del repositorio de la práctica)  
+
+### URL: https://github.com/CarmenBravo20/ApartamentoPractica04---Apartamento-VR.git 
+
+### Usuario: CarmenBravo20
+
 f.	En el informe se debe incluir la firma digital de los estudiantes. 
 5. En el archivo README del repositorio debe constar la misma información del informe de resultados de la práctica que se indica en el punto anterior. 
 
