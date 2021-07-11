@@ -2,7 +2,7 @@
  Práctica de programación Hipermedial sobre Realidad Virtual
  
   
-                                                                  PRÁCTICA DE LABORATORIO 
+                                                    ****PRÁCTICA DE LABORATORIO****
  
  
 ## CARRERA: COMPUTACION 	
